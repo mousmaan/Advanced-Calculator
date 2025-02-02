@@ -1,0 +1,10 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2820
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs24 \cf0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 body \{ font-family: Arial, sans-serif; background: linear-gradient(135deg, #ff9a9e, #fad0c4); margin: 0; padding: 20px; display: flex; justify-content: center; align-items: center; min-height: 100vh; color: #333; \} .container \{ background: #fff; padding: 20px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); max-width: 400px; width: 100%; \} h1, h2 \{ text-align: center; color: #555; \} .calculator, .history, .area-calculator, .note-counter \{ margin-top: 20px; \} #display \{ width: 100%; padding: 10px; font-size: 1.5em; margin-bottom: 10px; border: 2px solid #ccc; border-radius: 5px; text-align: right; \} .buttons \{ display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; \} button \{ padding: 15px; font-size: 1.2em; border: none; border-radius: 5px; cursor: pointer; background: #f0f0f0; transition: background 0.3s ease; \} button:hover \{ background: #ddd; \} button.equal \{ background: #4CAF50; color: white; \} button.equal:hover \{ background: #45a049; \} .history ul \{ list-style-type: none; padding: 0; max-height: 150px; overflow-y: auto; \} .history li \{ padding: 5px 0; border-bottom: 1px solid #ccc; font-size: 1.1em; \} .area-calculator label, .area-calculator select, .area-calculator input, .area-calculator button, .note-counter label, .note-counter select, .note-counter input, .note-counter button \{ display: block; margin: 10px 0; width: 100%; \} p \{ font-size: 1.2em; text-align: center; color: #333; \}}
